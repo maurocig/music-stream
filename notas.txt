@@ -1,0 +1,22 @@
+Tools:
+	React
+	Posgres
+	Prisma
+	Next.js
+	Vercel
+	Heroku
+
+It's an app that can play music.
+We're calling it Tracks.
+Looks like Spotify.
+
+This is copyright free music.
+we're doing it totally from scratch. nothing to fork or anything.
+how do you actually get STARTED?
+This course emphasizes on starting.
+
+We have back end and front end in the same application, but the architecture is completely different to having a constantly running server that serves static assets.
+
+now we are using serverless function.
+with next.js we get the benefit of running back end code in a front end component.
+the lines are going to get blurred. which is a feature of next.js.
